@@ -1,0 +1,30 @@
+{
+  "name": "boo",
+  "author": "MakeAwesomeHappen",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "boo",
+    "uuid": "227aacfa-42aa-4f0a-a16b-20d0e710127e",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [
+      "ContactName",
+      "Age"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}
