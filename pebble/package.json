@@ -1,12 +1,12 @@
 {
-  "name": "boo",
-  "author": "MakeAwesomeHappen",
-  "version": "1.0.0",
-  "keywords": ["pebble-app"],
+  "name": "Wiz Lights",
+  "author": "Responsive Tech",
+  "version": "0.1.0",
+  "keywords": ["pebble-app", "wiz"],
   "private": true,
   "dependencies": {},
   "pebble": {
-    "displayName": "boo",
+    "displayName": "Wiz Lights",
     "uuid": "227aacfa-42aa-4f0a-a16b-20d0e710127e",
     "sdkVersion": "3",
     "enableMultiJS": true,
